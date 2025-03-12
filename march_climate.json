@@ -1,0 +1,5 @@
+[
+    {"fecha": "2025-03-01", "temperatura": 20, "humedad": 50, "presion": 1010},
+    {"fecha": "2025-03-02", "temperatura": 21, "humedad": 52, "presion": 1011},
+    {"fecha": "2025-03-03", "temperatura": 22, "humedad": 53, "presion": 1012}
+  ]
