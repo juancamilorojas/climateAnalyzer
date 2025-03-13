@@ -1,0 +1,22 @@
+CLIMATE REPORT
+Days analyzed: 90
+========================================
+
+CLIMATE TEMPERATURE STATISTICS
+- Mean: 23.31111111111111
+- Median: 23.0
+- Mode: 24
+- Standar Deviation: 1.8701946329309405
+
+CLIMATE HUMIDITY STATISTICS
+- Mean: 56.022222222222226
+- Median: 56.0
+- Mode: 55
+- Standar Deviation: 3.6503894752271213
+
+CLIMATE PRESSURE STATISTICS
+- Mean: 1012.3333333333334
+- Median: 1012.0
+- Mode: 1012
+- Standar Deviation: 1.5213831672438847
+
